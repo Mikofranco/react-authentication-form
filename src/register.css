@@ -1,0 +1,59 @@
+section{
+    max-width: 40rem;
+    margin: auto;
+    padding: 3rem;
+    border: 1px solid teal;
+    margin-top: 5rem;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+form{
+
+}
+input{
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+p{
+    background: #222222;
+    color: #fff;
+    font-weight: bolder;
+    width: fit-content;
+    padding: 10px;
+}
+.submit{
+    margin: auto;
+}
+.errmsg {
+    color: red;
+  }
+  
+  .offscreen {
+    position: absolute;
+    left: -9999px;
+  }
+  
+  .valid {
+    color: green;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .instructions {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .instructions svg {
+    margin-right: 5px;
+  }
+  .faTimes {
+    color: red;
+  }
+  
